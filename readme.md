@@ -26,6 +26,7 @@ Users should be able to:
 ### Screenshot
 
 Status Active
+
 ![Design Mobile active](screenshot-active.jpeg)
 
 Desktop
@@ -39,8 +40,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository GitHub](https://github.com/Juan13052001/order-summary-component-main)
+- Live Site URL: [Site](https://juan13052001.github.io/order-summary-component-main/)
 
 ## My process
 
